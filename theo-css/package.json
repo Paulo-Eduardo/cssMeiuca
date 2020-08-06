@@ -1,0 +1,10 @@
+{
+  "name": "jota-tokens",
+  "description": "Jota tokens configuration",
+  "version": "0.0.2",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "meiucadesign",
+  "license": "MIT"
+}
